@@ -162,8 +162,7 @@ This project demonstrates how to schedule meetings using Spring Boot, Quartz Sch
     ./mvnw spring-boot:run
     ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 - Spring Boot Documentation
